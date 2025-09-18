@@ -10,6 +10,14 @@
 
 ###
 
+<h3 align="left">Trabalhos</h3>
+
+###
+
+<p align="left">Atualmente faço freelances na área para obter experiência e desenvolvimento profissional,  trabalhando em um site de montagem de bike. Como sempre na área houve aumento de escopo do projeto e terei que desenvolver um sistema de PDV(Ponto de venda) integrado com o ecommerce.</p>
+
+###
+
 <h3 align="left">Tecnlogias que uso</h3>
 
 ###
