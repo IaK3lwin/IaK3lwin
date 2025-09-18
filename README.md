@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Ian Kelwin, sou desenvolvedor de sortware em formação, desde sempre adoro a área e busco sempre buscar por conhecimento.</p>
+<p align="left">Me chamo Ian Kelwin, sou desenvolvedor de sortware em formação, desde sempre adoro a área e busco sempre por conhecimento.</p>
 
 ###
 
