@@ -62,8 +62,8 @@
   </a>
 </div>
 
-###
+<br>
 
 <img src="https://raw.githubusercontent.com/IaK3lwin/IaK3lwin/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
